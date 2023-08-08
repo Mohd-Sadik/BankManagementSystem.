@@ -1,1 +1,2 @@
- Programming Language: Python Tools &amp; Libraries: Jupyter, Tkinter
+ Programming Language: Python 
+ Tools & Libraries: Jupyter, Tkinter
